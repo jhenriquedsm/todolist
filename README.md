@@ -13,6 +13,7 @@
 - Spring
 - Apidog
 - VS Code
+- Render
 
 ## Conteúdo das aulas
 ### Aula 01 - Construçao back-end de uma aplicação de To-Do List
